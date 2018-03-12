@@ -45,7 +45,7 @@
 
 			<div class="msg-new-account">
 				<hr>
-				<span> Don't have an account? <a href="#"> Create one </a> </span>
+				<span> Don't have an account? <a href="<?= base_url() ?>registration"> Sign Up </a></span>
 			</div>
 		</div>
 	</div>
