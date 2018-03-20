@@ -23,6 +23,10 @@
   user-select: none;
 }
 
+.msg-text {
+  font-size: 14px;
+}
+
 /* REGISTRATION STYLES */
 .msg-privacy {
   color: #495057;
