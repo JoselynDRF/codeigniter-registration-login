@@ -3,7 +3,7 @@
 
 	<div class="container">
 		<div class="login-form">
-			<form action="<?= base_url() ?>login/getUser" method="POST">
+			<form action="<?= base_url() ?>login/getUser" method="POST" id="loginForm">
 				<fieldset>
 					<legend class="text-center mb-4"> Sign in to MyApp </legend>
 					<div class="form-group">
